@@ -1,0 +1,27 @@
+{
+  "name": "exodus-ethereum-tokens",
+  "version": "1.0.0",
+  "description": "Ethereum ERC20 Tokens for Exodus",
+  "homepage": "https://github.com/ExodusMovement/exodus-ethereum-tokens#readme",
+  "bugs": {
+    "url": "https://github.com/ExodusMovement/exodus-ethereum-tokens/issues"
+  },
+  "license": "MIT",
+  "author": "Exodus Movement, Inc.",
+  "main": "./assets.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExodusMovement/exodus-ethereum-tokens.git"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint && tape test/*.js"
+  },
+  "devDependencies": {
+    "ethereumjs-util": "^5.1.2",
+    "node-fetch": "^1.7.2",
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "private": true
+}

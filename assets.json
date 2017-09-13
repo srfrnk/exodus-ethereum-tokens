@@ -1,0 +1,245 @@
+[
+  {
+    "name": "aragon",
+    "properName": "Aragon",
+    "decimals": 18,
+    "displayUnit": "ANT",
+    "shapeShiftUnit": "ant",
+    "blockExplorer": "ANT",
+    "addresses": {
+        "current": "0x960b236A07cf122663c4303350609A66A7B288C0"
+    },
+    "color": "#2CDEE1"
+  },
+  {
+    "name": "augur",
+    "properName": "Augur",
+    "decimals": 18,
+    "displayUnit": "REP",
+    "shapeShiftUnit": "rep",
+    "blockExplorer": "REP",
+    "addresses": {
+        "current": "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6",
+        "previous": [
+            "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5"
+        ]
+    },
+    "color": "#AD2688"
+  },
+  {
+    "name": "bancor",
+    "properName": "Bancor",
+    "decimals": 18,
+    "displayUnit": "BNT",
+    "shapeShiftUnit": "bnt",
+    "blockExplorer": "BNT",
+    "addresses": {
+        "current": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C"
+    },
+    "color": "#676981"
+  },
+  {
+    "name": "bat",
+    "properName": "BAT",
+    "decimals": 18,
+    "displayUnit": "BAT",
+    "shapeShiftUnit": "bat",
+    "blockExplorer": "BAT",
+    "addresses": {
+        "current": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
+    },
+    "color": "#FF5000"
+  },
+  {
+    "name": "civic",
+    "properName": "Civic",
+    "decimals": 8,
+    "displayUnit": "CVC",
+    "shapeShiftUnit": "cvc",
+    "blockExplorer": "CVC",
+    "addresses": {
+        "current": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
+    },
+    "color": "#3EB13E"
+  },
+  {
+    "name": "digix",
+    "properName": "DigixDAO",
+    "decimals": 9,
+    "displayUnit": "DGD",
+    "shapeShiftUnit": "dgd",
+    "blockExplorer": "DGD",
+    "addresses": {
+        "current": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A"
+    },
+    "color": "#EEAF4A"
+  },
+  {
+    "name": "district0x",
+    "properName": "District0x",
+    "decimals": 18,
+    "displayUnit": "DNT",
+    "shapeShiftUnit": "dnt",
+    "blockExplorer": "DNT",
+    "addresses": {
+        "current": "0x0AbdAce70D3790235af448C88547603b945604ea"
+    },
+    "color": "#7CF8FA"
+  },
+  {
+    "name": "eos",
+    "properName": "EOS",
+    "decimals": 18,
+    "displayUnit": "EOS",
+    "shapeShiftUnit": "eos",
+    "blockExplorer": "EOS",
+    "addresses": {
+        "current": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0"
+    },
+    "color": "#99A4EA"
+  },
+  {
+    "name": "firstblood",
+    "properName": "FirstBlood",
+    "decimals": 18,
+    "displayUnit": "1ST",
+    "shapeShiftUnit": "",
+    "blockExplorer": "1ST",
+    "addresses": {
+        "current": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7"
+    },
+    "color": "#D0021B"
+  },
+  {
+    "name": "funfair",
+    "properName": "FunFair",
+    "decimals": 8,
+    "displayUnit": "FUN",
+    "shapeShiftUnit": "fun",
+    "blockExplorer": "FUN",
+    "addresses": {
+        "current": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"
+    },
+    "color": "#EB4B6E"
+  },
+  {
+    "name": "gnosis",
+    "properName": "Gnosis",
+    "decimals": 18,
+    "displayUnit": "GNO",
+    "shapeShiftUnit": "gno",
+    "blockExplorer": "GNO",
+    "addresses": {
+        "current": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
+    },
+    "color": "#02D8FF"
+  },
+  {
+    "name": "golem",
+    "properName": "Golem",
+    "decimals": 18,
+    "displayUnit": "GNT",
+    "shapeShiftUnit": "gnt",
+    "blockExplorer": "GNT",
+    "addresses": {
+        "current": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
+    },
+    "color": "#01D3E0"
+  },
+  {
+    "name": "metal",
+    "properName": "Metal",
+    "decimals": 8,
+    "displayUnit": "MTL",
+    "shapeShiftUnit": "mtl",
+    "blockExplorer": "MTL",
+    "addresses": {
+        "current": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
+    },
+    "color": "#FFFFFF"
+  },
+  {
+    "name": "omisego",
+    "properName": "OmiseGo",
+    "decimals": 18,
+    "displayUnit": "OMG",
+    "shapeShiftUnit": "omg",
+    "blockExplorer": "OmiseGo",
+    "addresses": {
+        "current": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+    },
+    "color": "#3A79FF"
+  },
+  {
+    "name": "qtum",
+    "properName": "QTUM",
+    "decimals": 18,
+    "displayUnit": "QTUM",
+    "shapeShiftUnit": "qtum",
+    "blockExplorer": "QTUM",
+    "addresses": {
+        "current": "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC"
+    },
+    "color": "#3EB8F8"
+  },
+  {
+    "name": "salt",
+    "properName": "SALT",
+    "decimals": 8,
+    "displayUnit": "SALT",
+    "shapeShiftUnit": "",
+    "blockExplorer": "SALT",
+    "addresses": {
+        "current": "0x4156D3342D5c385a87D264F90653733592000581"
+    },
+    "color": "#18CAD0"
+  },
+  {
+    "name": "status",
+    "properName": "Status",
+    "decimals": 18,
+    "displayUnit": "SNT",
+    "shapeShiftUnit": "snt",
+    "blockExplorer": "SNT",
+    "addresses": {
+        "current": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"
+    },
+    "color": "#5D69BD"
+  },
+  {
+    "name": "storj",
+    "properName": "Storj",
+    "decimals": 8,
+    "displayUnit": "STORJ",
+    "shapeShiftUnit": "",
+    "blockExplorer": "STORJ",
+    "addresses": {
+        "current": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
+    },
+    "color": "#2683FF"
+  },
+  {
+    "name": "wings",
+    "properName": "Wings",
+    "decimals": 18,
+    "displayUnit": "WINGS",
+    "shapeShiftUnit": "wings",
+    "blockExplorer": "WINGS",
+    "addresses": {
+        "current": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF"
+    },
+    "color": "#A9D6E6"
+  },
+  {
+    "name": "zerox",
+    "properName": "0x",
+    "decimals": 18,
+    "displayUnit": "ZRX",
+    "shapeShiftUnit": "zrx",
+    "blockExplorer": "ZRX",
+    "addresses": {
+        "current": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+    },
+    "color": "#FFFFFF"
+  }
+]
