@@ -5,7 +5,7 @@
     "decimals": 18,
     "displayUnit": "ANT",
     "shapeShiftUnit": "ant",
-    "blockExplorer": "ANT",
+    "blockExplorer": "Aragon",
     "addresses": {
         "current": "0x960b236A07cf122663c4303350609A66A7B288C0"
     },
@@ -32,7 +32,7 @@
     "decimals": 18,
     "displayUnit": "BNT",
     "shapeShiftUnit": "bnt",
-    "blockExplorer": "BNT",
+    "blockExplorer": "Bancor",
     "addresses": {
         "current": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C"
     },
@@ -56,7 +56,7 @@
     "decimals": 8,
     "displayUnit": "CVC",
     "shapeShiftUnit": "cvc",
-    "blockExplorer": "CVC",
+    "blockExplorer": "Civic",
     "addresses": {
         "current": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
     },
@@ -80,7 +80,7 @@
     "decimals": 18,
     "displayUnit": "DNT",
     "shapeShiftUnit": "dnt",
-    "blockExplorer": "DNT",
+    "blockExplorer": "district0x",
     "addresses": {
         "current": "0x0AbdAce70D3790235af448C88547603b945604ea"
     },
@@ -104,7 +104,7 @@
     "decimals": 18,
     "displayUnit": "1ST",
     "shapeShiftUnit": "",
-    "blockExplorer": "1ST",
+    "blockExplorer": "FirstBlood",
     "addresses": {
         "current": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7"
     },
@@ -116,7 +116,7 @@
     "decimals": 8,
     "displayUnit": "FUN",
     "shapeShiftUnit": "fun",
-    "blockExplorer": "FUN",
+    "blockExplorer": "FunFair",
     "addresses": {
         "current": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"
     },
@@ -128,7 +128,7 @@
     "decimals": 18,
     "displayUnit": "GNO",
     "shapeShiftUnit": "gno",
-    "blockExplorer": "GNO",
+    "blockExplorer": "Gnosis",
     "addresses": {
         "current": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
     },
@@ -140,7 +140,7 @@
     "decimals": 18,
     "displayUnit": "GNT",
     "shapeShiftUnit": "gnt",
-    "blockExplorer": "GNT",
+    "blockExplorer": "Golem",
     "addresses": {
         "current": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
     },
@@ -152,7 +152,7 @@
     "decimals": 8,
     "displayUnit": "MTL",
     "shapeShiftUnit": "mtl",
-    "blockExplorer": "MTL",
+    "blockExplorer": "Metal",
     "addresses": {
         "current": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
     },
@@ -176,7 +176,7 @@
     "decimals": 18,
     "displayUnit": "QTUM",
     "shapeShiftUnit": "qtum",
-    "blockExplorer": "QTUM",
+    "blockExplorer": "Qtum",
     "addresses": {
         "current": "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC"
     },
@@ -200,7 +200,7 @@
     "decimals": 18,
     "displayUnit": "SNT",
     "shapeShiftUnit": "snt",
-    "blockExplorer": "SNT",
+    "blockExplorer": "StatusNetwork",
     "addresses": {
         "current": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"
     },
@@ -212,7 +212,7 @@
     "decimals": 8,
     "displayUnit": "STORJ",
     "shapeShiftUnit": "",
-    "blockExplorer": "STORJ",
+    "blockExplorer": "Storj",
     "addresses": {
         "current": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
     },
