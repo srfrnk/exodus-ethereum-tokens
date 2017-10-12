@@ -175,7 +175,7 @@
     "properName": "QTUM",
     "decimals": 18,
     "displayUnit": "QTUM",
-    "shapeShiftUnit": "qtum",
+    "shapeShiftUnit": "",
     "blockExplorer": "Qtum",
     "addresses": {
         "current": "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC"
