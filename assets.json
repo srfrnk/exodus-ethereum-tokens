@@ -211,7 +211,7 @@
     "properName": "Storj",
     "decimals": 8,
     "displayUnit": "STORJ",
-    "shapeShiftUnit": "",
+    "shapeShiftUnit": "storj",
     "blockExplorer": "Storj",
     "addresses": {
         "current": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
