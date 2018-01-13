@@ -63,18 +63,6 @@
     "color": "#3EB13E"
   },
   {
-    "name": "digix",
-    "properName": "DigixDAO",
-    "decimals": 9,
-    "displayUnit": "DGD",
-    "shapeShiftUnit": "dgd",
-    "blockExplorer": "DGD",
-    "addresses": {
-        "current": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A"
-    },
-    "color": "#EEAF4A"
-  },
-  {
     "name": "district0x",
     "properName": "District0x",
     "decimals": 18,
