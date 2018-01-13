@@ -75,6 +75,18 @@
     "color": "#7CF8FA"
   },
   {
+    "name": "edgeless",
+    "properName": "Edgeless",
+    "decimals": 18,
+    "displayUnit": "EDG",
+    "shapeShiftUnit": "edg",
+    "blockExplorer": "Edgeless",
+    "addresses": {
+        "current": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c"
+    },
+    "color": "#764496"
+  },
+  {
     "name": "eos",
     "properName": "EOS",
     "decimals": 18,
@@ -135,6 +147,30 @@
     "color": "#01D3E0"
   },
   {
+    "name": "iexec",
+    "properName": "iExec RLC",
+    "decimals": 18,
+    "displayUnit": "RLC",
+    "shapeShiftUnit": "rlc",
+    "blockExplorer": "iExec RLC",
+    "addresses": {
+        "current": "0x607F4C5BB672230e8672085532f7e901544a7375"
+    },
+    "color": "#F6CD04"
+  },
+  {
+    "name": "matchpool",
+    "properName": "Matchpool",
+    "decimals": 8,
+    "displayUnit": "GUP",
+    "shapeShiftUnit": "gup",
+    "blockExplorer": "Matchpool",
+    "addresses": {
+        "current": "0xf7b098298f7c69fc14610bf71d5e02c60792894c"
+    },
+    "color": "#37DCD8"
+  },
+  {
     "name": "metal",
     "properName": "Metal",
     "decimals": 8,
@@ -145,6 +181,18 @@
         "current": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
     },
     "color": "#FFFFFF"
+  },
+  {
+    "name": "numeraire",
+    "properName": "Numeraire",
+    "decimals": 8,
+    "displayUnit": "NMR",
+    "shapeShiftUnit": "nmr",
+    "blockExplorer": "Numeraire",
+    "addresses": {
+        "current": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+    },
+    "color": "#F1F1F1"
   },
   {
     "name": "omisego",
@@ -183,6 +231,17 @@
     "color": "#18CAD0"
   },
   {
+    "name": "singulardtv",
+    "properName": "SingularDTV",
+    "decimals": 8,
+    "displayUnit": "SNGLS",
+    "shapeShiftUnit": "sngls",
+    "addresses": {
+        "current": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009"
+    },
+    "color": "#B30C23"
+  },
+  {
     "name": "status",
     "properName": "Status",
     "decimals": 18,
@@ -205,6 +264,18 @@
         "current": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
     },
     "color": "#2683FF"
+  },
+  {
+    "name": "wetrust",
+    "properName": "WeTrust",
+    "decimals": 18,
+    "displayUnit": "TRST",
+    "shapeShiftUnit": "trst",
+    "blockExplorer": "WeTrust",
+    "addresses": {
+        "current": "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b"
+    },
+    "color": "#63C6BB"
   },
   {
     "name": "wings",
