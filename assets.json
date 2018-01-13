@@ -75,6 +75,18 @@
     "color": "#7CF8FA"
   },
   {
+    "name": "edgeless",
+    "properName": "Edgeless",
+    "decimals": 18,
+    "displayUnit": "EDG",
+    "shapeShiftUnit": "edg",
+    "blockExplorer": "Edgeless",
+    "addresses": {
+        "current": "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c"
+    },
+    "color": "#764496"
+  },
+  {
     "name": "eos",
     "properName": "EOS",
     "decimals": 18,
@@ -135,6 +147,42 @@
     "color": "#01D3E0"
   },
   {
+    "name": "iexec",
+    "properName": "iExec RLC",
+    "decimals": 18,
+    "displayUnit": "RLC",
+    "shapeShiftUnit": "rlc",
+    "blockExplorer": "iExec RLC",
+    "addresses": {
+        "current": "0x607F4C5BB672230e8672085532f7e901544a7375"
+    },
+    "color": "#F6CD04"
+  },
+  {
+    "name": "matchpool",
+    "properName": "Matchpool",
+    "decimals": 8,
+    "displayUnit": "GUP",
+    "shapeShiftUnit": "gup",
+    "blockExplorer": "Matchpool",
+    "addresses": {
+        "current": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C"
+    },
+    "color": "#37DCD8"
+  },
+  {
+    "name": "melonport",
+    "properName": "Melonport",
+    "decimals": 8,
+    "displayUnit": "MLN",
+    "shapeShiftUnit": "mln",
+    "blockExplorer": "Melonport",
+    "addresses": {
+        "current": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1"
+    },
+    "color": "#F1F1F1"
+  },
+  {
     "name": "metal",
     "properName": "Metal",
     "decimals": 8,
@@ -145,6 +193,18 @@
         "current": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
     },
     "color": "#FFFFFF"
+  },
+  {
+    "name": "numeraire",
+    "properName": "Numeraire",
+    "decimals": 8,
+    "displayUnit": "NMR",
+    "shapeShiftUnit": "nmr",
+    "blockExplorer": "Numeraire",
+    "addresses": {
+        "current": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"
+    },
+    "color": "#F1F1F1"
   },
   {
     "name": "omisego",
@@ -183,6 +243,17 @@
     "color": "#18CAD0"
   },
   {
+    "name": "singulardtv",
+    "properName": "SingularDTV",
+    "decimals": 8,
+    "displayUnit": "SNGLS",
+    "shapeShiftUnit": "sngls",
+    "addresses": {
+        "current": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009"
+    },
+    "color": "#B30C23"
+  },
+  {
     "name": "status",
     "properName": "Status",
     "decimals": 18,
@@ -205,6 +276,18 @@
         "current": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
     },
     "color": "#2683FF"
+  },
+  {
+    "name": "wetrust",
+    "properName": "WeTrust",
+    "decimals": 18,
+    "displayUnit": "TRST",
+    "shapeShiftUnit": "trst",
+    "blockExplorer": "WeTrust",
+    "addresses": {
+        "current": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B"
+    },
+    "color": "#63C6BB"
   },
   {
     "name": "wings",
