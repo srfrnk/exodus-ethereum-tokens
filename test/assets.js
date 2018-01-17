@@ -22,7 +22,7 @@ test('assets', (t) => {
         t.true(typeof asset.properName === 'string' && asset.properName.length > 0, 'checking properName')
 
         // decimals
-        t.true(Number.isFinite(asset.decimals) && asset.decimals > 0, 'checking decimals')
+        t.true(Number.isFinite(asset.decimals) && asset.decimals >= 0, 'checking decimals')
 
         // displayUnit
         t.true(typeof asset.displayUnit === 'string' && asset.displayUnit.length > 0, 'checking displayUnit')

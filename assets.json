@@ -77,7 +77,7 @@
   {
     "name": "edgeless",
     "properName": "Edgeless",
-    "decimals": 18,
+    "decimals": 0,
     "displayUnit": "EDG",
     "shapeShiftUnit": "edg",
     "blockExplorer": "Edgeless",
@@ -149,7 +149,7 @@
   {
     "name": "iexec",
     "properName": "iExec RLC",
-    "decimals": 18,
+    "decimals": 9,
     "displayUnit": "RLC",
     "shapeShiftUnit": "rlc",
     "blockExplorer": "iExec RLC",
@@ -161,7 +161,7 @@
   {
     "name": "matchpool",
     "properName": "Matchpool",
-    "decimals": 8,
+    "decimals": 3,
     "displayUnit": "GUP",
     "shapeShiftUnit": "gup",
     "blockExplorer": "Matchpool",
@@ -173,7 +173,7 @@
   {
     "name": "melonport",
     "properName": "Melonport",
-    "decimals": 8,
+    "decimals": 18,
     "displayUnit": "MLN",
     "shapeShiftUnit": "mln",
     "blockExplorer": "Melonport",
@@ -197,7 +197,7 @@
   {
     "name": "numeraire",
     "properName": "Numeraire",
-    "decimals": 8,
+    "decimals": 18,
     "displayUnit": "NMR",
     "shapeShiftUnit": "nmr",
     "blockExplorer": "Numeraire",
@@ -245,7 +245,7 @@
   {
     "name": "singulardtv",
     "properName": "SingularDTV",
-    "decimals": 8,
+    "decimals": 0,
     "displayUnit": "SNGLS",
     "shapeShiftUnit": "sngls",
     "addresses": {
@@ -280,7 +280,7 @@
   {
     "name": "wetrust",
     "properName": "WeTrust",
-    "decimals": 18,
+    "decimals": 6,
     "displayUnit": "TRST",
     "shapeShiftUnit": "trst",
     "blockExplorer": "WeTrust",
