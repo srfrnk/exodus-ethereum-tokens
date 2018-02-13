@@ -150,7 +150,7 @@
     "properName": "iExec RLC",
     "decimals": 9,
     "displayUnit": "RLC",
-    "blockExplorer": "iExec RLC",
+    "blockExplorer": "RLC",
     "addresses": {
       "current": "0x607F4C5BB672230e8672085532f7e901544a7375"
     },
@@ -161,7 +161,7 @@
     "properName": "Matchpool",
     "decimals": 3,
     "displayUnit": "GUP",
-    "blockExplorer": "Matchpool",
+    "blockExplorer": "Guppy",
     "addresses": {
       "current": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C"
     },
@@ -172,7 +172,7 @@
     "properName": "Melonport",
     "decimals": 18,
     "displayUnit": "MLN",
-    "blockExplorer": "Melonport",
+    "blockExplorer": "Melon",
     "addresses": {
       "current": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1"
     },
@@ -238,6 +238,7 @@
     "properName": "SingularDTV",
     "decimals": 0,
     "displayUnit": "SNGLS",
+    "blockExplorer": "SNGLS",
     "addresses": {
       "current": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009"
     },
@@ -270,7 +271,7 @@
     "properName": "WeTrust",
     "decimals": 6,
     "displayUnit": "TRST",
-    "blockExplorer": "WeTrust",
+    "blockExplorer": "Trustcoin",
     "addresses": {
       "current": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B"
     },
