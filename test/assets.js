@@ -21,7 +21,6 @@ test('assets', async (t) => {
     t.end()
   })
 
-  const coins = await getJSON('https://shapeshift.io/getcoins')
   for (const asset of assets) {
     t.test(`validate ${asset.name}`, async (t) => {
       // name
@@ -32,17 +31,11 @@ test('assets', async (t) => {
 
       // decimals
       const decimals = await getAssetDecimals(asset.addresses.current)
-      t.equal(asset.decimals, decimals, 'checking decimals')
+      if (Number.isNaN(decimals)) t.skip('checking decimals')
+      else t.equal(asset.decimals, decimals, 'checking decimals')
 
       // displayUnit
       t.true(typeof asset.displayUnit === 'string' && asset.displayUnit.length > 0, 'checking displayUnit')
-
-      // shapeShiftUnit
-      t.true(typeof asset.shapeShiftUnit === 'string', 'checking shapeShiftUnit')
-      if (asset.shapeShiftUnit !== '') {
-        const coin = coins[asset.shapeShiftUnit.toUpperCase()]
-        t.ok(coin, 'shapeShiftUnit should exist')
-      }
 
       // contract
       t.true(typeof asset.addresses === 'object', 'checking addresses')

@@ -4,10 +4,9 @@
     "properName": "Aragon",
     "decimals": 18,
     "displayUnit": "ANT",
-    "shapeShiftUnit": "ant",
     "blockExplorer": "Aragon",
     "addresses": {
-        "current": "0x960b236A07cf122663c4303350609A66A7B288C0"
+      "current": "0x960b236A07cf122663c4303350609A66A7B288C0"
     },
     "color": "#2CDEE1"
   },
@@ -16,13 +15,12 @@
     "properName": "Augur",
     "decimals": 18,
     "displayUnit": "REP",
-    "shapeShiftUnit": "rep",
     "blockExplorer": "REP",
     "addresses": {
-        "current": "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6",
-        "previous": [
-            "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5"
-        ]
+      "current": "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6",
+      "previous": [
+        "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5"
+      ]
     },
     "color": "#AD2688"
   },
@@ -31,10 +29,9 @@
     "properName": "Bancor",
     "decimals": 18,
     "displayUnit": "BNT",
-    "shapeShiftUnit": "bnt",
     "blockExplorer": "Bancor",
     "addresses": {
-        "current": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C"
+      "current": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C"
     },
     "color": "#676981"
   },
@@ -43,10 +40,9 @@
     "properName": "BAT",
     "decimals": 18,
     "displayUnit": "BAT",
-    "shapeShiftUnit": "bat",
     "blockExplorer": "BAT",
     "addresses": {
-        "current": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
+      "current": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
     },
     "color": "#FF5000"
   },
@@ -55,22 +51,31 @@
     "properName": "Civic",
     "decimals": 8,
     "displayUnit": "CVC",
-    "shapeShiftUnit": "cvc",
     "blockExplorer": "Civic",
     "addresses": {
-        "current": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
+      "current": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
     },
     "color": "#3EB13E"
+  },
+  {
+    "name": "digix",
+    "properName": "DigixDAO",
+    "decimals": 9,
+    "displayUnit": "DGD",
+    "blockExplorer": "DGD",
+    "addresses": {
+      "current": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A"
+    },
+    "color": "#EEAF4A"
   },
   {
     "name": "district0x",
     "properName": "District0x",
     "decimals": 18,
     "displayUnit": "DNT",
-    "shapeShiftUnit": "dnt",
     "blockExplorer": "district0x",
     "addresses": {
-        "current": "0x0AbdAce70D3790235af448C88547603b945604ea"
+      "current": "0x0AbdAce70D3790235af448C88547603b945604ea"
     },
     "color": "#7CF8FA"
   },
@@ -79,10 +84,9 @@
     "properName": "Edgeless",
     "decimals": 0,
     "displayUnit": "EDG",
-    "shapeShiftUnit": "edg",
     "blockExplorer": "Edgeless",
     "addresses": {
-        "current": "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c"
+      "current": "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c"
     },
     "color": "#764496"
   },
@@ -91,10 +95,9 @@
     "properName": "EOS",
     "decimals": 18,
     "displayUnit": "EOS",
-    "shapeShiftUnit": "eos",
     "blockExplorer": "EOS",
     "addresses": {
-        "current": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0"
+      "current": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0"
     },
     "color": "#99A4EA"
   },
@@ -103,10 +106,9 @@
     "properName": "FirstBlood",
     "decimals": 18,
     "displayUnit": "1ST",
-    "shapeShiftUnit": "1st",
     "blockExplorer": "FirstBlood",
     "addresses": {
-        "current": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7"
+      "current": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7"
     },
     "color": "#D0021B"
   },
@@ -115,10 +117,9 @@
     "properName": "FunFair",
     "decimals": 8,
     "displayUnit": "FUN",
-    "shapeShiftUnit": "fun",
     "blockExplorer": "FunFair",
     "addresses": {
-        "current": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"
+      "current": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"
     },
     "color": "#EB4B6E"
   },
@@ -127,10 +128,9 @@
     "properName": "Gnosis",
     "decimals": 18,
     "displayUnit": "GNO",
-    "shapeShiftUnit": "gno",
     "blockExplorer": "Gnosis",
     "addresses": {
-        "current": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
+      "current": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
     },
     "color": "#02D8FF"
   },
@@ -139,10 +139,9 @@
     "properName": "Golem",
     "decimals": 18,
     "displayUnit": "GNT",
-    "shapeShiftUnit": "gnt",
     "blockExplorer": "Golem",
     "addresses": {
-        "current": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
+      "current": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
     },
     "color": "#01D3E0"
   },
@@ -151,10 +150,9 @@
     "properName": "iExec RLC",
     "decimals": 9,
     "displayUnit": "RLC",
-    "shapeShiftUnit": "rlc",
     "blockExplorer": "iExec RLC",
     "addresses": {
-        "current": "0x607F4C5BB672230e8672085532f7e901544a7375"
+      "current": "0x607F4C5BB672230e8672085532f7e901544a7375"
     },
     "color": "#F6CD04"
   },
@@ -163,10 +161,9 @@
     "properName": "Matchpool",
     "decimals": 3,
     "displayUnit": "GUP",
-    "shapeShiftUnit": "gup",
     "blockExplorer": "Matchpool",
     "addresses": {
-        "current": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C"
+      "current": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C"
     },
     "color": "#37DCD8"
   },
@@ -175,10 +172,9 @@
     "properName": "Melonport",
     "decimals": 18,
     "displayUnit": "MLN",
-    "shapeShiftUnit": "mln",
     "blockExplorer": "Melonport",
     "addresses": {
-        "current": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1"
+      "current": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1"
     },
     "color": "#F1F1F1"
   },
@@ -187,10 +183,9 @@
     "properName": "Metal",
     "decimals": 8,
     "displayUnit": "MTL",
-    "shapeShiftUnit": "mtl",
     "blockExplorer": "Metal",
     "addresses": {
-        "current": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
+      "current": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
     },
     "color": "#FFFFFF"
   },
@@ -199,10 +194,9 @@
     "properName": "Numeraire",
     "decimals": 18,
     "displayUnit": "NMR",
-    "shapeShiftUnit": "nmr",
     "blockExplorer": "Numeraire",
     "addresses": {
-        "current": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"
+      "current": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"
     },
     "color": "#F1F1F1"
   },
@@ -211,10 +205,9 @@
     "properName": "OmiseGo",
     "decimals": 18,
     "displayUnit": "OMG",
-    "shapeShiftUnit": "omg",
     "blockExplorer": "OmiseGo",
     "addresses": {
-        "current": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+      "current": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
     },
     "color": "#3A79FF"
   },
@@ -223,10 +216,9 @@
     "properName": "QTUM",
     "decimals": 18,
     "displayUnit": "QTUM",
-    "shapeShiftUnit": "",
     "blockExplorer": "Qtum",
     "addresses": {
-        "current": "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC"
+      "current": "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC"
     },
     "color": "#3EB8F8"
   },
@@ -235,10 +227,9 @@
     "properName": "SALT",
     "decimals": 8,
     "displayUnit": "SALT",
-    "shapeShiftUnit": "salt",
     "blockExplorer": "0x4156D3342D5c385a87D264F90653733592000581",
     "addresses": {
-        "current": "0x4156D3342D5c385a87D264F90653733592000581"
+      "current": "0x4156D3342D5c385a87D264F90653733592000581"
     },
     "color": "#18CAD0"
   },
@@ -247,9 +238,8 @@
     "properName": "SingularDTV",
     "decimals": 0,
     "displayUnit": "SNGLS",
-    "shapeShiftUnit": "sngls",
     "addresses": {
-        "current": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009"
+      "current": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009"
     },
     "color": "#B30C23"
   },
@@ -258,10 +248,9 @@
     "properName": "Status",
     "decimals": 18,
     "displayUnit": "SNT",
-    "shapeShiftUnit": "snt",
     "blockExplorer": "StatusNetwork",
     "addresses": {
-        "current": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"
+      "current": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"
     },
     "color": "#5D69BD"
   },
@@ -270,10 +259,9 @@
     "properName": "Storj",
     "decimals": 8,
     "displayUnit": "STORJ",
-    "shapeShiftUnit": "storj",
     "blockExplorer": "Storj",
     "addresses": {
-        "current": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
+      "current": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
     },
     "color": "#2683FF"
   },
@@ -282,10 +270,9 @@
     "properName": "WeTrust",
     "decimals": 6,
     "displayUnit": "TRST",
-    "shapeShiftUnit": "trst",
     "blockExplorer": "WeTrust",
     "addresses": {
-        "current": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B"
+      "current": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B"
     },
     "color": "#63C6BB"
   },
@@ -294,10 +281,9 @@
     "properName": "Wings",
     "decimals": 18,
     "displayUnit": "WINGS",
-    "shapeShiftUnit": "wings",
     "blockExplorer": "WINGS",
     "addresses": {
-        "current": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF"
+      "current": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF"
     },
     "color": "#A9D6E6"
   },
@@ -306,10 +292,9 @@
     "properName": "0x",
     "decimals": 18,
     "displayUnit": "ZRX",
-    "shapeShiftUnit": "zrx",
     "blockExplorer": "ZRX",
     "addresses": {
-        "current": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+      "current": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
     },
     "color": "#FFFFFF"
   }

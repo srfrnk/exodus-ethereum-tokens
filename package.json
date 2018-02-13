@@ -16,7 +16,7 @@
   "scripts": {
     "lint": "standard",
     "test": "npm run lint && npm run unit",
-    "unit": "node test/*.js"
+    "unit": "tape test/*.js"
   },
   "devDependencies": {
     "ethereumjs-util": "^5.1.2",
