@@ -19,7 +19,7 @@
     "addresses": {
       "current": "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466"
     },
-    "color": "#004651"
+    "color": "#00C1F1"
   },
   {
     "name": "aragon",
@@ -55,7 +55,7 @@
     "addresses": {
       "current": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C"
     },
-    "color": "#676981"
+    "color": "#CFCFCF"
   },
   {
     "name": "bat",
@@ -77,7 +77,7 @@
     "addresses": {
       "current": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
     },
-    "color": "#F3BA2E"
+    "color": "#FBB900"
   },
   {
     "name": "chainlink",
@@ -110,7 +110,7 @@
     "addresses": {
       "current": "0x3597bfD533a99c9aa083587B074434E61Eb0A258"
     },
-    "color": "#666666"
+    "color": "#CFCFCF"
   },
   {
     "name": "dentacoin",
@@ -121,7 +121,7 @@
     "addresses": {
       "current": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6"
     },
-    "color": "#116688"
+    "color": "#F1F1F1"
   },
   {
     "name": "digix",
@@ -154,7 +154,7 @@
     "addresses": {
       "current": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E"
     },
-    "color": "#8099B9"
+    "color": "#0096EB"
   },
   {
     "name": "edgeless",
@@ -242,7 +242,7 @@
     "addresses": {
       "current": "0xb5A5F22694352C15B00323844aD545ABb2B11028"
     },
-    "color": "#1FC5C9"
+    "color": "#00C8CB"
   },
   {
     "name": "iexec",
@@ -264,7 +264,7 @@
     "addresses": {
       "current": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5"
     },
-    "color": "#00CCEE"
+    "color": "#00CFF2"
   },
   {
     "name": "kyber",
@@ -275,7 +275,7 @@
     "addresses": {
       "current": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
     },
-    "color": "#C1DFD2"
+    "color": "#50BC9C"
   },
   {
     "name": "loopring",
@@ -286,7 +286,7 @@
     "addresses": {
       "current": "0xEF68e7C694F40c8202821eDF525dE3782458639f"
     },
-    "color": "#303030"
+    "color": "#F1F1F1"
   },
   {
     "name": "matchpool",
@@ -352,7 +352,7 @@
     "addresses": {
       "current": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC"
     },
-    "color": "#3F4B80"
+    "color": "#5869BB"
   },
   {
     "name": "populous",
@@ -363,7 +363,7 @@
     "addresses": {
       "current": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a"
     },
-    "color": "#C6B458"
+    "color": "#C8B545"
   },
   {
     "name": "powerledger",
@@ -374,7 +374,7 @@
     "addresses": {
       "current": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269"
     },
-    "color": "#05BCA9"
+    "color": "#00C0A9"
   },
   {
     "name": "qash",
@@ -385,7 +385,7 @@
     "addresses": {
       "current": "0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6"
     },
-    "color": "#1347E8"
+    "color": "#00B7F5"
   },
   {
     "name": "qtum",
@@ -407,7 +407,7 @@
     "addresses": {
       "current": "0x168296bb09e24A88805CB9c33356536B980D3fC5"
     },
-    "color": "#CC1E46"
+    "color": "#CC2746"
   },
   {
     "name": "request",
@@ -429,7 +429,7 @@
     "addresses": {
       "current": "0x48f775EFBE4F5EcE6e0DF2f7b5932dF56823B990"
     },
-    "color": "#771A4E"
+    "color": "#931762"
   },
   {
     "name": "salt",
@@ -506,7 +506,7 @@
     "addresses": {
       "current": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"
     },
-    "color": "#FF9933"
+    "color": "#FF9400"
   },
   {
     "name": "walton",
@@ -517,7 +517,7 @@
     "addresses": {
       "current": "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74"
     },
-    "color": "#08308F"
+    "color": "#355DBE"
   },
   {
     "name": "wax",
@@ -528,7 +528,7 @@
     "addresses": {
       "current": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022"
     },
-    "color": "#FECD33"
+    "color": "#FF8500"
   },
   {
     "name": "wetrust",
