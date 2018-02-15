@@ -346,7 +346,7 @@
   {
     "name": "poet",
     "properName": "Po.et",
-    "decimals": 18,
+    "decimals": 8,
     "displayUnit": "POE",
     "blockExplorer": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
     "addresses": {
