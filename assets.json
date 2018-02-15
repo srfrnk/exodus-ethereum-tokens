@@ -1,5 +1,27 @@
 [
   {
+    "name": "aeternity",
+    "properName": "Aeternity",
+    "decimals": 18,
+    "displayUnit": "AE",
+    "blockExplorer": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+    "addresses": {
+      "current": "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d"
+    },
+    "color": "#DE3F6B"
+  },
+  {
+    "name": "aion",
+    "properName": "Aion",
+    "decimals": 8,
+    "displayUnit": "AION",
+    "blockExplorer": "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466",
+    "addresses": {
+      "current": "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466"
+    },
+    "color": "#004651"
+  },
+  {
     "name": "aragon",
     "properName": "Aragon",
     "decimals": 18,
@@ -47,6 +69,28 @@
     "color": "#FF5000"
   },
   {
+    "name": "binance",
+    "properName": "Binance",
+    "decimals": 18,
+    "displayUnit": "BNB",
+    "blockExplorer": "BNB",
+    "addresses": {
+      "current": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+    },
+    "color": "#F3BA2E"
+  },
+  {
+    "name": "chainlink",
+    "properName": "ChainLink",
+    "decimals": 18,
+    "displayUnit": "LINK",
+    "blockExplorer": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "addresses": {
+      "current": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+    },
+    "color": "#3FA0F1"
+  },
+  {
     "name": "civic",
     "properName": "Civic",
     "decimals": 8,
@@ -56,6 +100,28 @@
       "current": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
     },
     "color": "#3EB13E"
+  },
+  {
+    "name": "dent",
+    "properName": "Dent",
+    "decimals": 8,
+    "displayUnit": "DENT",
+    "blockExplorer": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
+    "addresses": {
+      "current": "0x3597bfD533a99c9aa083587B074434E61Eb0A258"
+    },
+    "color": "#666666"
+  },
+  {
+    "name": "dentacoin",
+    "properName": "Dentacoin",
+    "decimals": 0,
+    "displayUnit": "DCN",
+    "blockExplorer": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+    "addresses": {
+      "current": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6"
+    },
+    "color": "#116688"
   },
   {
     "name": "digix",
@@ -80,6 +146,17 @@
     "color": "#7CF8FA"
   },
   {
+    "name": "dragon",
+    "properName": "Dragon",
+    "decimals": 18,
+    "displayUnit": "DRGN",
+    "blockExplorer": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+    "addresses": {
+      "current": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E"
+    },
+    "color": "#8099B9"
+  },
+  {
     "name": "edgeless",
     "properName": "Edgeless",
     "decimals": 0,
@@ -100,6 +177,17 @@
       "current": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0"
     },
     "color": "#99A4EA"
+  },
+  {
+    "name": "ethos",
+    "properName": "Ethos",
+    "decimals": 8,
+    "displayUnit": "ETHOS",
+    "blockExplorer": "Ethos",
+    "addresses": {
+      "current": "0x5Af2Be193a6ABCa9c8817001F45744777Db30756"
+    },
+    "color": "#00CFAB"
   },
   {
     "name": "firstblood",
@@ -146,6 +234,17 @@
     "color": "#01D3E0"
   },
   {
+    "name": "icon",
+    "properName": "ICON",
+    "decimals": 18,
+    "displayUnit": "IC",
+    "blockExplorer": "0xb5a5f22694352c15b00323844ad545abb2b11028",
+    "addresses": {
+      "current": "0xb5A5F22694352C15B00323844aD545ABb2B11028"
+    },
+    "color": "#1FC5C9"
+  },
+  {
     "name": "iexec",
     "properName": "iExec RLC",
     "decimals": 9,
@@ -155,6 +254,39 @@
       "current": "0x607F4C5BB672230e8672085532f7e901544a7375"
     },
     "color": "#F6CD04"
+  },
+  {
+    "name": "kin",
+    "properName": "Kin",
+    "decimals": 18,
+    "displayUnit": "KIN",
+    "blockExplorer": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
+    "addresses": {
+      "current": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5"
+    },
+    "color": "#00CCEE"
+  },
+  {
+    "name": "kyber",
+    "properName": "Kyber",
+    "decimals": 18,
+    "displayUnit": "KNC",
+    "blockExplorer": "KyberNetwork",
+    "addresses": {
+      "current": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
+    },
+    "color": "#C1DFD2"
+  },
+  {
+    "name": "loopring",
+    "properName": "Loopring",
+    "decimals": 18,
+    "displayUnit": "LRC",
+    "blockExplorer": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
+    "addresses": {
+      "current": "0xEF68e7C694F40c8202821eDF525dE3782458639f"
+    },
+    "color": "#303030"
   },
   {
     "name": "matchpool",
@@ -212,6 +344,50 @@
     "color": "#3A79FF"
   },
   {
+    "name": "polymath",
+    "properName": "Polymath",
+    "decimals": 18,
+    "displayUnit": "POLY",
+    "blockExplorer": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+    "addresses": {
+      "current": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC"
+    },
+    "color": "#3F4B80"
+  },
+  {
+    "name": "populous",
+    "properName": "Populous",
+    "decimals": 8,
+    "displayUnit": "PPT",
+    "blockExplorer": "Populous",
+    "addresses": {
+      "current": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a"
+    },
+    "color": "#C6B458"
+  },
+  {
+    "name": "powerledger",
+    "properName": "Power Ledger",
+    "decimals": 6,
+    "displayUnit": "POWR",
+    "blockExplorer": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+    "addresses": {
+      "current": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269"
+    },
+    "color": "#05BCA9"
+  },
+  {
+    "name": "qash",
+    "properName": "Qash",
+    "decimals": 6,
+    "displayUnit": "QASH",
+    "blockExplorer": "Qash",
+    "addresses": {
+      "current": "0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6"
+    },
+    "color": "#1347E8"
+  },
+  {
     "name": "qtum",
     "properName": "QTUM",
     "decimals": 18,
@@ -221,6 +397,39 @@
       "current": "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC"
     },
     "color": "#3EB8F8"
+  },
+  {
+    "name": "rchain",
+    "properName": "RChain",
+    "decimals": 8,
+    "displayUnit": "RHOC",
+    "blockExplorer": "0x168296bb09e24a88805cb9c33356536b980d3fc5",
+    "addresses": {
+      "current": "0x168296bb09e24A88805CB9c33356536B980D3fC5"
+    },
+    "color": "#CC1E46"
+  },
+  {
+    "name": "request",
+    "properName": "Request",
+    "decimals": 18,
+    "displayUnit": "REQ",
+    "blockExplorer": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+    "addresses": {
+      "current": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a"
+    },
+    "color": "#6CFDCC"
+  },
+  {
+    "name": "revain",
+    "properName": "Revain",
+    "decimals": 0,
+    "displayUnit": "R",
+    "blockExplorer": "0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
+    "addresses": {
+      "current": "0x48f775EFBE4F5EcE6e0DF2f7b5932dF56823B990"
+    },
+    "color": "#771A4E"
   },
   {
     "name": "salt",
@@ -265,6 +474,61 @@
       "current": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
     },
     "color": "#2683FF"
+  },
+  {
+    "name": "tron",
+    "properName": "Tron",
+    "decimals": 6,
+    "displayUnit": "TRX",
+    "blockExplorer": "Tronix",
+    "addresses": {
+      "current": "0xf230b790E05390FC8295F4d3F60332c93BEd42e2"
+    },
+    "color": "#F1F1F1"
+  },
+  {
+    "name": "vechain",
+    "properName": "VeChain",
+    "decimals": 18,
+    "displayUnit": "VEN",
+    "blockExplorer": "0xd850942ef8811f2a866692a623011bde52a462c1",
+    "addresses": {
+      "current": "0xD850942eF8811f2A866692A623011bDE52a462C1"
+    },
+    "color": "#22B2F9"
+  },
+  {
+    "name": "veritaseum",
+    "properName": "Veritaseum",
+    "decimals": 18,
+    "displayUnit": "VEN",
+    "blockExplorer": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+    "addresses": {
+      "current": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"
+    },
+    "color": "#FF9933"
+  },
+  {
+    "name": "walton",
+    "properName": "Walton",
+    "decimals": 18,
+    "displayUnit": "WTC",
+    "blockExplorer": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+    "addresses": {
+      "current": "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74"
+    },
+    "color": "#08308F"
+  },
+  {
+    "name": "wax",
+    "properName": "Wax",
+    "decimals": 8,
+    "displayUnit": "WAX",
+    "blockExplorer": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022",
+    "addresses": {
+      "current": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022"
+    },
+    "color": "#FECD33"
   },
   {
     "name": "wetrust",
