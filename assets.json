@@ -55,7 +55,7 @@
     "addresses": {
       "current": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C"
     },
-    "color": "#CFCFCF"
+    "color": "#F1F1F1"
   },
   {
     "name": "bat",
@@ -342,6 +342,17 @@
       "current": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
     },
     "color": "#3A79FF"
+  },
+  {
+    "name": "poet",
+    "properName": "Po.et",
+    "decimals": 8,
+    "displayUnit": "POE",
+    "blockExplorer": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+    "addresses": {
+      "current": "0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195"
+    },
+    "color": "#F2F2F2"
   },
   {
     "name": "polymath",
