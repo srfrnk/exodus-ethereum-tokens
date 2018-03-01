@@ -135,17 +135,6 @@
     "color": "#FBB900"
   },
   {
-    "name": "bytom",
-    "properName": "Bytom",
-    "decimals": 8,
-    "displayUnit": "BTM",
-    "blockExplorer": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750",
-    "addresses": {
-      "current": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750"
-    },
-    "color": "#FAFAFA"
-  },
-  {
     "name": "chainlink",
     "properName": "ChainLink",
     "decimals": 18,
@@ -256,17 +245,6 @@
     "color": "#764496"
   },
   {
-    "name": "elf",
-    "properName": "ELF",
-    "decimals": 18,
-    "displayUnit": "ELF",
-    "blockExplorer": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
-    "addresses": {
-      "current": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e"
-    },
-    "color": "#00B7F5"
-  },
-  {
     "name": "eos",
     "properName": "EOS",
     "decimals": 18,
@@ -353,17 +331,6 @@
       "current": "0x607F4C5BB672230e8672085532f7e901544a7375"
     },
     "color": "#F6CD04"
-  },
-  {
-    "name": "iostoken",
-    "properName": "IOSToken",
-    "decimals": 18,
-    "displayUnit": "IOST",
-    "blockExplorer": "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab",
-    "addresses": {
-      "current": "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab"
-    },
-    "color": "#FAFAFA"
   },
   {
     "name": "kin",
@@ -463,17 +430,6 @@
       "current": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d"
     },
     "color": "#E58268"
-  },
-  {
-    "name": "nebulas",
-    "properName": "Nebulas",
-    "decimals": 18,
-    "displayUnit": "NAS",
-    "blockExplorer": "0x5d65D971895Edc438f465c17DB6992698a52318D",
-    "addresses": {
-      "current": "0x5d65D971895Edc438f465c17DB6992698a52318D"
-    },
-    "color": "#FFFFFF"
   },
   {
     "name": "numeraire",
@@ -619,28 +575,6 @@
     "color": "#931762"
   },
   {
-    "name": "ripiocreditnetwork",
-    "properName": "RipioCreditNetwork",
-    "decimals": 18,
-    "displayUnit": "RCN",
-    "blockExplorer": "RipioCreditNetwork",
-    "addresses": {
-      "current": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6"
-    },
-    "color": "#4764FF"
-  },
-  {
-    "name": "rivetz",
-    "properName": "Rivetz",
-    "decimals": 18,
-    "displayUnit": "RVT",
-    "blockExplorer": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
-    "addresses": {
-      "current": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244"
-    },
-    "color": "#EA902B"
-  },
-  {
     "name": "salt",
     "properName": "SALT",
     "decimals": 8,
@@ -661,17 +595,6 @@
       "current": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009"
     },
     "color": "#B30C23"
-  },
-  {
-    "name": "singularitynet",
-    "properName": "SingularityNET",
-    "decimals": 8,
-    "displayUnit": "AGI",
-    "blockExplorer": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
-    "addresses": {
-      "current": "0x8eB24319393716668D768dCEC29356ae9CfFe285"
-    },
-    "color": "#823DBA"
   },
   {
     "name": "status",
@@ -716,28 +639,6 @@
       "current": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C"
     },
     "color": "#EE434A"
-  },
-  {
-    "name": "theta",
-    "properName": "Theta",
-    "decimals": 18,
-    "displayUnit": "THETA",
-    "blockExplorer": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
-    "addresses": {
-      "current": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645"
-    },
-    "color": "#28BAE5"
-  },
-  {
-    "name": "tierion",
-    "properName": "Tierion",
-    "decimals": 8,
-    "displayUnit": "TNT",
-    "blockExplorer": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
-    "addresses": {
-      "current": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8"
-    },
-    "color": "#FF3F81"
   },
   {
     "name": "tron",
@@ -837,16 +738,5 @@
       "current": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
     },
     "color": "#FFFFFF"
-  },
-  {
-    "name": "zilliqa",
-    "properName": "Zilliqa",
-    "decimals": 12,
-    "displayUnit": "ZIL",
-    "blockExplorer": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27",
-    "addresses": {
-      "current": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27"
-    },
-    "color": "#49C1BF"
   }
 ]
