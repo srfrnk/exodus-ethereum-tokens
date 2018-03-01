@@ -1,5 +1,27 @@
 [
   {
+    "name": "adtoken",
+    "properName": "AdToken",
+    "decimals": 9,
+    "displayUnit": "ADT",
+    "blockExplorer": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
+    "addresses": {
+      "current": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD"
+    },
+    "color": "#823DBA"
+  },
+  {
+    "name": "aeron",
+    "properName": "Aeron",
+    "decimals": 8,
+    "displayUnit": "ARN",
+    "blockExplorer": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+    "addresses": {
+      "current": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6"
+    },
+    "color": "#00BFD0"
+  },
+  {
     "name": "aeternity",
     "properName": "Aeternity",
     "decimals": 18,
@@ -20,6 +42,39 @@
       "current": "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466"
     },
     "color": "#00C1F1"
+  },
+  {
+    "name": "airswap",
+    "properName": "AirSwap",
+    "decimals": 4,
+    "displayUnit": "AST",
+    "blockExplorer": "AirSwap",
+    "addresses": {
+      "current": "0x27054b13b1B798B345b591a4d22e6562d47eA75a"
+    },
+    "color": "#00A0FF"
+  },
+  {
+    "name": "amber",
+    "properName": "Amber",
+    "decimals": 18,
+    "displayUnit": "AMB",
+    "blockExplorer": "0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE",
+    "addresses": {
+      "current": "0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE"
+    },
+    "color": "#3C94FC"
+  },
+  {
+    "name": "appcoins",
+    "properName": "AppCoins",
+    "decimals": 18,
+    "displayUnit": "APPC",
+    "blockExplorer": "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB",
+    "addresses": {
+      "current": "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB"
+    },
+    "color": "#FC8B59"
   },
   {
     "name": "aragon",
@@ -80,6 +135,17 @@
     "color": "#FBB900"
   },
   {
+    "name": "bytom",
+    "properName": "Bytom",
+    "decimals": 8,
+    "displayUnit": "BTM",
+    "blockExplorer": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750",
+    "addresses": {
+      "current": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750"
+    },
+    "color": "#FAFAFA"
+  },
+  {
     "name": "chainlink",
     "properName": "ChainLink",
     "decimals": 18,
@@ -91,6 +157,17 @@
     "color": "#3FA0F1"
   },
   {
+    "name": "cindicator",
+    "properName": "Cindicator",
+    "decimals": 18,
+    "displayUnit": "CND",
+    "blockExplorer": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
+    "addresses": {
+      "current": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa"
+    },
+    "color": "#FAFAFA"
+  },
+  {
     "name": "civic",
     "properName": "Civic",
     "decimals": 8,
@@ -100,6 +177,17 @@
       "current": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
     },
     "color": "#3EB13E"
+  },
+  {
+    "name": "decentraland",
+    "properName": "Decentraland",
+    "decimals": 18,
+    "displayUnit": "MANA",
+    "blockExplorer": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+    "addresses": {
+      "current": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+    },
+    "color": "#F47E33"
   },
   {
     "name": "dent",
@@ -166,6 +254,17 @@
       "current": "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c"
     },
     "color": "#764496"
+  },
+  {
+    "name": "elf",
+    "properName": "ELF",
+    "decimals": 18,
+    "displayUnit": "ELF",
+    "blockExplorer": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+    "addresses": {
+      "current": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e"
+    },
+    "color": "#00B7F5"
   },
   {
     "name": "eos",
@@ -256,6 +355,17 @@
     "color": "#F6CD04"
   },
   {
+    "name": "iostoken",
+    "properName": "IOSToken",
+    "decimals": 18,
+    "displayUnit": "IOST",
+    "blockExplorer": "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab",
+    "addresses": {
+      "current": "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab"
+    },
+    "color": "#FAFAFA"
+  },
+  {
     "name": "kin",
     "properName": "Kin",
     "decimals": 18,
@@ -289,6 +399,28 @@
     "color": "#F1F1F1"
   },
   {
+    "name": "lunyr",
+    "properName": "Lunyr",
+    "decimals": 18,
+    "displayUnit": "LUN",
+    "blockExplorer": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+    "addresses": {
+      "current": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9"
+    },
+    "color": "#F4553C"
+  },
+  {
+    "name": "maker",
+    "properName": "Maker",
+    "decimals": 18,
+    "displayUnit": "MKR",
+    "blockExplorer": "Maker",
+    "addresses": {
+      "current": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+    },
+    "color": "#19BC9B"
+  },
+  {
     "name": "matchpool",
     "properName": "Matchpool",
     "decimals": 3,
@@ -318,6 +450,28 @@
     "blockExplorer": "Metal",
     "addresses": {
       "current": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
+    },
+    "color": "#FFFFFF"
+  },
+  {
+    "name": "monaco",
+    "properName": "Monaco",
+    "decimals": 8,
+    "displayUnit": "MCO",
+    "blockExplorer": "Monaco",
+    "addresses": {
+      "current": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d"
+    },
+    "color": "#E58268"
+  },
+  {
+    "name": "nebulas",
+    "properName": "Nebulas",
+    "decimals": 18,
+    "displayUnit": "NAS",
+    "blockExplorer": "0x5d65D971895Edc438f465c17DB6992698a52318D",
+    "addresses": {
+      "current": "0x5d65D971895Edc438f465c17DB6992698a52318D"
     },
     "color": "#FFFFFF"
   },
@@ -410,6 +564,28 @@
     "color": "#3EB8F8"
   },
   {
+    "name": "quantstamp",
+    "properName": "Quantstamp",
+    "decimals": 18,
+    "displayUnit": "QSP",
+    "blockExplorer": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d",
+    "addresses": {
+      "current": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d"
+    },
+    "color": "#00B7F5"
+  },
+  {
+    "name": "raiden",
+    "properName": "Raiden",
+    "decimals": 18,
+    "displayUnit": "RDN",
+    "blockExplorer": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
+    "addresses": {
+      "current": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6"
+    },
+    "color": "#FAFAFA"
+  },
+  {
     "name": "rchain",
     "properName": "RChain",
     "decimals": 8,
@@ -443,6 +619,28 @@
     "color": "#931762"
   },
   {
+    "name": "ripiocreditnetwork",
+    "properName": "RipioCreditNetwork",
+    "decimals": 18,
+    "displayUnit": "RCN",
+    "blockExplorer": "RipioCreditNetwork",
+    "addresses": {
+      "current": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6"
+    },
+    "color": "#4764FF"
+  },
+  {
+    "name": "rivetz",
+    "properName": "Rivetz",
+    "decimals": 18,
+    "displayUnit": "RVT",
+    "blockExplorer": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
+    "addresses": {
+      "current": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244"
+    },
+    "color": "#EA902B"
+  },
+  {
     "name": "salt",
     "properName": "SALT",
     "decimals": 8,
@@ -465,6 +663,17 @@
     "color": "#B30C23"
   },
   {
+    "name": "singularitynet",
+    "properName": "SingularityNET",
+    "decimals": 8,
+    "displayUnit": "AGI",
+    "blockExplorer": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
+    "addresses": {
+      "current": "0x8eB24319393716668D768dCEC29356ae9CfFe285"
+    },
+    "color": "#823DBA"
+  },
+  {
     "name": "status",
     "properName": "Status",
     "decimals": 18,
@@ -485,6 +694,50 @@
       "current": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
     },
     "color": "#2683FF"
+  },
+  {
+    "name": "storm",
+    "properName": "Storm",
+    "decimals": 18,
+    "displayUnit": "STORM",
+    "blockExplorer": "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433",
+    "addresses": {
+      "current": "0xD0a4b8946Cb52f0661273bfbC6fD0E0C75Fc6433"
+    },
+    "color": "#FEC240"
+  },
+  {
+    "name": "taas",
+    "properName": "TAAS",
+    "decimals": 6,
+    "displayUnit": "TAAS",
+    "blockExplorer": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+    "addresses": {
+      "current": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C"
+    },
+    "color": "#EE434A"
+  },
+  {
+    "name": "theta",
+    "properName": "Theta",
+    "decimals": 18,
+    "displayUnit": "THETA",
+    "blockExplorer": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+    "addresses": {
+      "current": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645"
+    },
+    "color": "#28BAE5"
+  },
+  {
+    "name": "tierion",
+    "properName": "Tierion",
+    "decimals": 8,
+    "displayUnit": "TNT",
+    "blockExplorer": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
+    "addresses": {
+      "current": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8"
+    },
+    "color": "#FF3F81"
   },
   {
     "name": "tron",
@@ -518,6 +771,17 @@
       "current": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"
     },
     "color": "#FF9400"
+  },
+  {
+    "name": "viberate",
+    "properName": "Viberate",
+    "decimals": 8,
+    "displayUnit": "VIB",
+    "blockExplorer": "0x57D02550f47dd932d2fB84E0aA883C9D8d53C313",
+    "addresses": {
+      "current": "0x57D02550f47dd932d2fB84E0aA883C9D8d53C313"
+    },
+    "color": "#FF1F42"
   },
   {
     "name": "walton",
@@ -573,5 +837,16 @@
       "current": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
     },
     "color": "#FFFFFF"
+  },
+  {
+    "name": "zilliqa",
+    "properName": "Zilliqa",
+    "decimals": 12,
+    "displayUnit": "ZIL",
+    "blockExplorer": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27",
+    "addresses": {
+      "current": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27"
+    },
+    "color": "#49C1BF"
   }
 ]
