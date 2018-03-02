@@ -676,11 +676,11 @@
   {
     "name": "viberate",
     "properName": "Viberate",
-    "decimals": 8,
+    "decimals": 18,
     "displayUnit": "VIB",
-    "blockExplorer": "0x57D02550f47dd932d2fB84E0aA883C9D8d53C313",
+    "blockExplorer": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
     "addresses": {
-      "current": "0x57D02550f47dd932d2fB84E0aA883C9D8d53C313"
+      "current": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724"
     },
     "color": "#FF1F42"
   },
