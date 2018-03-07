@@ -454,6 +454,17 @@
     "color": "#3A79FF"
   },
   {
+    "name": "pillar",
+    "properName": "Pillar",
+    "decimals": 18,
+    "displayUnit": "PLR",
+    "blockExplorer": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
+    "addresses": {
+      "current": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17"
+    },
+    "color": "#00BFFF"
+  },
+  {
     "name": "poet",
     "properName": "Po.et",
     "decimals": 8,
@@ -608,6 +619,17 @@
     "color": "#18CAD0"
   },
   {
+    "name": "santiment",
+    "properName": "Santiment",
+    "decimals": 18,
+    "displayUnit": "SAN",
+    "blockExplorer": "SAN",
+    "addresses": {
+      "current": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098"
+    },
+    "color": "#2C7EBF"
+  },
+  {
     "name": "singulardtv",
     "properName": "SingularDTV",
     "decimals": 0,
@@ -652,6 +674,17 @@
     "color": "#FEC240"
   },
   {
+    "name": "substratum",
+    "properName": "Substratum",
+    "decimals": 2,
+    "displayUnit": "SUB",
+    "blockExplorer": "0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A",
+    "addresses": {
+      "current": "0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A"
+    },
+    "color": "#ED3F37"
+  },
+  {
     "name": "taas",
     "properName": "TAAS",
     "decimals": 6,
@@ -661,6 +694,17 @@
       "current": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C"
     },
     "color": "#EE434A"
+  },
+  {
+    "name": "tenx",
+    "properName": "TenX",
+    "decimals": 18,
+    "displayUnit": "PAY",
+    "blockExplorer": "TenXPay",
+    "addresses": {
+      "current": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"
+    },
+    "color": "#F1F1F1"
   },
   {
     "name": "tron",
