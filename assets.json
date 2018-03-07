@@ -575,6 +575,28 @@
     "color": "#931762"
   },
   {
+    "name": "ripiocreditnetwork",
+    "properName": "RipioCreditNetwork",
+    "decimals": 18,
+    "displayUnit": "RCN",
+    "blockExplorer": "RipioCreditNetwork",
+    "addresses": {
+      "current": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6"
+    },
+    "color": "#4764FF"
+  },
+  {
+    "name": "rivetz",
+    "properName": "Rivetz",
+    "decimals": 18,
+    "displayUnit": "RVT",
+    "blockExplorer": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
+    "addresses": {
+      "current": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244"
+    },
+    "color": "#EA902B"
+  },
+  {
     "name": "salt",
     "properName": "SALT",
     "decimals": 8,
