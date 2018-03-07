@@ -575,8 +575,8 @@
     "color": "#931762"
   },
   {
-    "name": "ripiocreditnetwork",
-    "properName": "RipioCreditNetwork",
+    "name": "ripio",
+    "properName": "Ripio",
     "decimals": 18,
     "displayUnit": "RCN",
     "blockExplorer": "RipioCreditNetwork",
