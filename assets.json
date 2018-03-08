@@ -443,6 +443,17 @@
     "color": "#37DCD8"
   },
   {
+    "name": "medishares",
+    "properName": "MediShares",
+    "decimals": 18,
+    "displayUnit": "MDS",
+    "blockExplorer": "0x66186008C1050627F979d464eABb258860563dbE",
+    "addresses": {
+      "current": "0x66186008C1050627F979d464eABb258860563dbE"
+    },
+    "color": "#FAFAFA"
+  },
+  {
     "name": "melonport",
     "properName": "Melonport",
     "decimals": 18,
@@ -749,6 +760,17 @@
       "current": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"
     },
     "color": "#F1F1F1"
+  },
+  {
+    "name": "timenewbank",
+    "properName": "Time Bank",
+    "decimals": 18,
+    "displayUnit": "TNB",
+    "blockExplorer": "0xf7920b0768ecb20a123fac32311d07d193381d6f",
+    "addresses": {
+      "current": "0xF7920B0768Ecb20A123fAc32311d07D193381d6f"
+    },
+    "color": "#FAB31E"
   },
   {
     "name": "tron",
