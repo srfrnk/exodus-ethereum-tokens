@@ -696,17 +696,6 @@
     "color": "#B30C23"
   },
   {
-    "name": "spankchain",
-    "properName": "SpankChain",
-    "decimals": 18,
-    "displayUnit": "SPANK",
-    "blockExplorer": "0x42d6622dece394b54999fbd73d108123806f6a18",
-    "addresses": {
-      "current": "0x42d6622deCe394b54999Fbd73D108123806f6a18"
-    },
-    "color": "#FF3C81"
-  },
-  {
     "name": "status",
     "properName": "Status",
     "decimals": 18,
