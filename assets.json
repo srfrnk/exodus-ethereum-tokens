@@ -135,6 +135,17 @@
     "color": "#FBB900"
   },
   {
+    "name": "bread",
+    "properName": "Bread",
+    "decimals": 18,
+    "displayUnit": "BRD",
+    "blockExplorer": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
+    "addresses": {
+      "current": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6"
+    },
+    "color": "#FC5E81"
+  },
+  {
     "name": "chainlink",
     "properName": "ChainLink",
     "decimals": 18,
@@ -289,6 +300,17 @@
     "color": "#EB4B6E"
   },
   {
+    "name": "genesisvision",
+    "properName": "GenesisVision",
+    "decimals": 18,
+    "displayUnit": "GVT",
+    "blockExplorer": "genesis-vision",
+    "addresses": {
+      "current": "0x103c3A209da59d3E7C4A89307e66521e081CFDF0"
+    },
+    "color": "#01BEB0"
+  },
+  {
     "name": "gnosis",
     "properName": "Gnosis",
     "decimals": 18,
@@ -322,6 +344,17 @@
     "color": "#00C8CB"
   },
   {
+    "name": "iconomi",
+    "properName": "Iconomi",
+    "decimals": 18,
+    "displayUnit": "ICN",
+    "blockExplorer": "ICONOMI",
+    "addresses": {
+      "current": "0x888666CA69E0f178DED6D75b5726Cee99A87D698"
+    },
+    "color": "#96ACBF"
+  },
+  {
     "name": "iexec",
     "properName": "iExec RLC",
     "decimals": 9,
@@ -342,6 +375,17 @@
       "current": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5"
     },
     "color": "#00CFF2"
+  },
+  {
+    "name": "kucoin",
+    "properName": "KuCoin",
+    "decimals": 6,
+    "displayUnit": "KCS",
+    "blockExplorer": "0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+    "addresses": {
+      "current": "0x039B5649A59967e3e936D7471f9c3700100Ee1ab"
+    },
+    "color": "#50BC9C"
   },
   {
     "name": "kyber",
@@ -397,6 +441,17 @@
       "current": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C"
     },
     "color": "#37DCD8"
+  },
+  {
+    "name": "medishares",
+    "properName": "MediShares",
+    "decimals": 18,
+    "displayUnit": "MDS",
+    "blockExplorer": "0x66186008C1050627F979d464eABb258860563dbE",
+    "addresses": {
+      "current": "0x66186008C1050627F979d464eABb258860563dbE"
+    },
+    "color": "#FAFAFA"
   },
   {
     "name": "melonport",
@@ -705,6 +760,17 @@
       "current": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"
     },
     "color": "#F1F1F1"
+  },
+  {
+    "name": "timenewbank",
+    "properName": "Time Bank",
+    "decimals": 18,
+    "displayUnit": "TNB",
+    "blockExplorer": "0xf7920b0768ecb20a123fac32311d07d193381d6f",
+    "addresses": {
+      "current": "0xF7920B0768Ecb20A123fAc32311d07D193381d6f"
+    },
+    "color": "#FAB31E"
   },
   {
     "name": "tron",
