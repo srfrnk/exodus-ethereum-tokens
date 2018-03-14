@@ -352,7 +352,7 @@
     "addresses": {
       "current": "0x888666CA69E0f178DED6D75b5726Cee99A87D698"
     },
-    "color": "#96ACBF"
+    "color": "#507DA6"
   },
   {
     "name": "iexec",
@@ -385,7 +385,7 @@
     "addresses": {
       "current": "0x039B5649A59967e3e936D7471f9c3700100Ee1ab"
     },
-    "color": "#50BC9C"
+    "color": "#0097EF"
   },
   {
     "name": "kyber",
@@ -660,7 +660,7 @@
     "addresses": {
       "current": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244"
     },
-    "color": "#EA902B"
+    "color": "#FF6800"
   },
   {
     "name": "salt",
