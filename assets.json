@@ -806,6 +806,17 @@
     "color": "#FF9400"
   },
   {
+    "name": "vezt",
+    "properName": "Vezt",
+    "decimals": 18,
+    "displayUnit": "VZT",
+    "blockExplorer": "0x9720b467a710382A232a32F540bDCed7d662a10B",
+    "addresses": {
+      "current": "0x9720b467a710382A232a32F540bDCed7d662a10B"
+    },
+    "color": "#4DDABA"
+  },
+  {
     "name": "viberate",
     "properName": "Viberate",
     "decimals": 18,
